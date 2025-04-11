@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @taoufiqaitali
 - 👀 I’m interested in creating ecommerce websites
-- 🌱 I’m currently learning vue storefront
+- 🌱 I’m currently learning AI agent
 - 💞️ I’m looking to collaborate on ecommerce projects
 - 📫 How to reach me : linkedin https://www.linkedin.com/in/taoufiqaitali/
 
 
-Full Stack Web Developer working on many projects at international companies around the world. I am having core expertise in Prestashop, magento 2, Laravel, Joomla, Wordpress and a lot of other CMS & Ecommerce platforms, PHP, html, css,Jquery, sql, mysql..and more scripts. Till today I have successfully finished lot of websites, web-mastering of 20+ websites,fix and update more than 300 websites. you can find more information about me on my personal website or just google my name :-P. Am looking to work with you as freelance in some project, am looking forward to you.
+Highly skilled Full Stack Web Developer specializing in building and optimizing high-performing e-commerce platforms. My core expertise lies in Adobe Commerce (Magento) development and deep customization, complemented by strong proficiency in PHP and related technologies (Laravel, MySQL). I have a proven track record of successfully launching and managing impactful online stores for international clients. My full-stack capabilities extend to front-end development (HTML, CSS, JavaScript/jQuery), ensuring seamless and user-friendly experiences that drive results. Seeking freelance opportunities in Adobe Commerce and PHP-based projects where I can leverage my experience to achieve your online success. Explore my portfolio or search my name on Google for more.
 
